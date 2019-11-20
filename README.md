@@ -1,4 +1,4 @@
-# Consulta de Vagas para Recadastramento da Biometria - TRE-CE
+# Consulta de Vagas para Cadastramento da Biometria - TRE-CE
 
 Esse é um script bem simples, criado em 5 minutos no intervalo do almoço. **Não me julguem!**.
 
