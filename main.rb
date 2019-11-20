@@ -21,7 +21,7 @@ LOCATIONS = [
 
 UniformNotifier.terminal_notifier = true
 
-while true
+while true # ¯\_(ツ)_/¯
   LOCATIONS.each do |location|
     response = HTTParty.post(
         'http://apps.tre-ce.jus.br/agendabio/publico/registrarAgendamentoEleitor.do?acao=atualizarDia',
@@ -45,5 +45,5 @@ while true
       end
     end
   end
-  sleep 30
+  sleep 30 # Só pra não ficar parecendo que é um DDOS Attack
 end
