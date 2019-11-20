@@ -1,6 +1,6 @@
 # Consulta de Vagas para Cadastramento da Biometria - TRE-CE
 
-Esse é um script bem simples, criado em 5 minutos no intervalo do almoço. **Não me julguem!**.
+Esse é um script bem simples, criado em 5 minutos no intervalo do almoço. **Não me julguem!**. ¯\_(ツ)_/¯
 
 Fiquei sabendo pelo meu amigo  [@flaviopinto](https://github.com/flaviopinto) (thanks man!) que o site do TRE-CE estava liberando algumas vagas e, para não ficar consultando o dia todo manualmente, automatizei essa consulta.
 
