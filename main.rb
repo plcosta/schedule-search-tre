@@ -29,7 +29,7 @@ while true
           'Content-Type': 'application/x-www-form-urlencoded',
           'X-Requested-With': 'XMLHttpRequest',
           'Referer': 'http://apps.tre-ce.jus.br/agendabio/publico/registrarAgendamentoEleitor.do?acao=load',
-          'Accetp': '*/*'
+          'Accept': '*/*'
         },
         body: { 'local': location[:id] }
     )
