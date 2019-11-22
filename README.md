@@ -14,4 +14,4 @@ Fiquei sabendo pelo meu amigo  [@flaviopinto](https://github.com/flaviopinto) (t
 - Depois é só rodar o script e aguardar: `ruby main.rb`
 - Quando aparecer uma vaga, acesse [http://www.tre-ce.jus.br/eleitor/agendamento-biometria](http://www.tre-ce.jus.br/eleitor/agendamento-biometria) e faça o agendamento. Seja rápido!
 
-### Enjoy!
+### Mandem PRs pra melhorarmos esse "bot". =)
